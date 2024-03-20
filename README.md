@@ -1,4 +1,4 @@
-image-gallery.gif
+
 
 # Getting Started with Create React App
 
